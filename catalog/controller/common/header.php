@@ -37,6 +37,7 @@ class ControllerCommonHeader extends Controller {
 
 		$data['name'] = $this->config->get('config_name');
 
+
 		if (is_file(DIR_IMAGE . $this->config->get('config_logo'))) {
 			$data['logo'] = $server . 'image/' . $this->config->get('config_logo');
 		} else {
@@ -84,13 +85,16 @@ class ControllerCommonHeader extends Controller {
 		$data['checkout'] = $this->url->link('checkout/checkout', '', true);
 		$data['contact'] = $this->url->link('information/contact');
 		$data['telephone'] = $this->config->get('config_telephone');
+        $data['aboutus'] = $this->url->link('information/information','',true);
 
 		// Menu
-		$this->load->model('catalog/category');
 
-		$this->load->model('catalog/product');
+        $this->load->model('catalog/category');
 
-		$data['categories'] = array();
+        $this->load->model('catalog/product');
+
+        $data['categories'] = array();
+
 
 		$categories = $this->model_catalog_category->getCategories(0);
 
@@ -127,6 +131,17 @@ class ControllerCommonHeader extends Controller {
 		$data['currency'] = $this->load->controller('common/currency');
 		$data['search'] = $this->load->controller('common/search');
 		$data['cart'] = $this->load->controller('common/cart');
+
+        $this->load->model('catalog/information');
+
+        $data['informations'] = array();
+
+        foreach ($this->model_catalog_information->getInformations() as $result) {
+            $data['informations'][] = array(
+                'title' => $result['title'],
+                'href'  => $this->url->link('information/information', 'information_id=' . $result['information_id'])
+            );
+        }
 
 		// For page specific css
 		if (isset($this->request->get['route'])) {
