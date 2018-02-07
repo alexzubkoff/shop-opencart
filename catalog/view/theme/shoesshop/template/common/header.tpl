@@ -44,6 +44,9 @@
     <?php echo $language; ?>
     <div id="top-links" class="nav pull-left">
       <ul class="list-inline">
+        <li><a href="./index.php?route=information/information&information_id=4">О нас</a></li>
+        <li><a href="./index.php?route=information/information&information_id=3">Оплата</a></li>
+        <li><a href="./index.php?route=information/information&information_id=6">Доставка</a></li>
         <li><a href="<?php echo $contact; ?>"><i class="fa fa-phone"></i></a> <span class="hidden-xs hidden-sm hidden-md"><?php echo $telephone; ?></span></li>
         <li class="dropdown"><a href="<?php echo $account; ?>" title="<?php echo $text_account; ?>" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> <span class="hidden-xs hidden-sm hidden-md"><?php echo $text_account; ?></span> <span class="caret"></span></a>
           <ul class="dropdown-menu dropdown-menu-right">
@@ -63,6 +66,9 @@
         <li><a href="<?php echo $shopping_cart; ?>" title="<?php echo $text_shopping_cart; ?>"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs hidden-sm hidden-md"><?php echo $text_shopping_cart; ?></span></a></li>
         <li><a href="<?php echo $checkout; ?>" title="<?php echo $text_checkout; ?>"><i class="fa fa-share"></i> <span class="hidden-xs hidden-sm hidden-md"><?php echo $text_checkout; ?></span></a></li>
       </ul>
+    </div>
+    <div id="top-links" class="nav pull-right">
+      <button type="button" data-toggle="modal" data-target="#myModal" class="btn btn-success btn-md">Заказать обратный звонок</button>
     </div>
   </div>
 </nav>
@@ -84,7 +90,7 @@
     </div>
   </div>
 </header>
-<!--<?php if ($categories) { ?>
+<?php if ($categories) { ?>
 <div class="container">
   <nav id="menu" class="navbar">
     <div class="navbar-header"><span id="category" class="visible-xs"><?php echo $text_category; ?></span>
@@ -115,19 +121,28 @@
     </div>
   </nav>
 </div>
-<?php } ?>-->
+<?php } ?>
+<div class="container">
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
 
-<!--<div class="container">
-    <div class="row">
-        <div class="col-sm-3">
-            <h5><?php echo $text_account; ?></h5>
-            <ul class="list-unstyled">
-                <li><a href="<?php echo $account; ?>"><?php echo $text_account; ?></a></li>
-                <li><a href="<?php echo $order; ?>"><?php echo $text_order; ?></a></li>
-                <li><a href="<?php echo $wishlist; ?>"><?php echo $text_wishlist; ?></a></li>
-            </ul>
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Modal Header</h4>
         </div>
+        <div class="modal-body">
+          <p>Some text in the modal.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+
     </div>
-    <hr>
-</div>-->
+  </div>
+
+</div>
 </body>

@@ -20,6 +20,8 @@ class ControllerCommonHeader extends Controller {
 			$server = $this->config->get('config_url');
 		}
 
+
+
 		if (is_file(DIR_IMAGE . $this->config->get('config_icon'))) {
 			$this->document->addLink($server . 'image/' . $this->config->get('config_icon'), 'icon');
 		}
@@ -36,7 +38,6 @@ class ControllerCommonHeader extends Controller {
 		$data['direction'] = $this->language->get('direction');
 
 		$data['name'] = $this->config->get('config_name');
-
 
 		if (is_file(DIR_IMAGE . $this->config->get('config_logo'))) {
 			$data['logo'] = $server . 'image/' . $this->config->get('config_logo');
@@ -132,18 +133,6 @@ class ControllerCommonHeader extends Controller {
 		$data['search'] = $this->load->controller('common/search');
 		$data['cart'] = $this->load->controller('common/cart');
 
-
-
-        /*$this->load->model('catalog/information');
-
-        $data['informations'] = array();
-
-        foreach ($this->model_catalog_information->getInformations() as $result) {
-            $data['informations'][] = array(
-                'title' => $result['title'],
-                'href'  => $this->url->link('information/information', 'information_id=' . $result['information_id'])
-            );
-        }*/
 
 		// For page specific css
 		if (isset($this->request->get['route'])) {
