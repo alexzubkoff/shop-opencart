@@ -59,7 +59,7 @@
             <?php } ?>
           </ul>
         </li>
-        <li><a href="<?php echo $wishlist; ?>" id="wishlist-total" title="<?php echo $text_wishlist; ?>"><i class="fa fa-heart"></i> <span class="hidden-xs hidden-sm hidden-md"><?php echo $text_wishlist; ?></span></a></li>
+      <li><a href="<?php echo $wishlist; ?>" id="wishlist-total" title="<?php echo $text_wishlist; ?>"><i class="fa fa-heart"></i> <span class="hidden-xs hidden-sm hidden-md"><?php echo $text_wishlist; ?></span></a></li>
         <li><a href="<?php echo $shopping_cart; ?>" title="<?php echo $text_shopping_cart; ?>"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs hidden-sm hidden-md"><?php echo $text_shopping_cart; ?></span></a></li>
         <li><a href="<?php echo $checkout; ?>" title="<?php echo $text_checkout; ?>"><i class="fa fa-share"></i> <span class="hidden-xs hidden-sm hidden-md"><?php echo $text_checkout; ?></span></a></li>
       </ul>
@@ -84,7 +84,7 @@
     </div>
   </div>
 </header>
-<?php if ($categories) { ?>
+<!--<?php if ($categories) { ?>
 <div class="container">
   <nav id="menu" class="navbar">
     <div class="navbar-header"><span id="category" class="visible-xs"><?php echo $text_category; ?></span>
@@ -115,4 +115,19 @@
     </div>
   </nav>
 </div>
-<?php } ?>
+<?php } ?>-->
+
+<!--<div class="container">
+    <div class="row">
+        <div class="col-sm-3">
+            <h5><?php echo $text_account; ?></h5>
+            <ul class="list-unstyled">
+                <li><a href="<?php echo $account; ?>"><?php echo $text_account; ?></a></li>
+                <li><a href="<?php echo $order; ?>"><?php echo $text_order; ?></a></li>
+                <li><a href="<?php echo $wishlist; ?>"><?php echo $text_wishlist; ?></a></li>
+            </ul>
+        </div>
+    </div>
+    <hr>
+</div>-->
+</body>

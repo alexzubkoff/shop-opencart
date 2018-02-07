@@ -132,7 +132,9 @@ class ControllerCommonHeader extends Controller {
 		$data['search'] = $this->load->controller('common/search');
 		$data['cart'] = $this->load->controller('common/cart');
 
-        $this->load->model('catalog/information');
+
+
+        /*$this->load->model('catalog/information');
 
         $data['informations'] = array();
 
@@ -141,7 +143,7 @@ class ControllerCommonHeader extends Controller {
                 'title' => $result['title'],
                 'href'  => $this->url->link('information/information', 'information_id=' . $result['information_id'])
             );
-        }
+        }*/
 
 		// For page specific css
 		if (isset($this->request->get['route'])) {
