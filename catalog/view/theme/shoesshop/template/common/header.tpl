@@ -131,16 +131,20 @@
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Modal Header</h4>
+          <h4 class="modal-title">Заказать обратный звонок</h4>
         </div>
         <div class="modal-body">
-          <p>Some text in the modal.</p>
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <form action="./index.php?route=information/phone" method="post">
+            <input type="text" name="name" placeholder="Имя" required><br>
+            <p></p>
+            <input type="tel" name="phone" placeholder="Телефон" required><br>
+            <p></p>
+            <textarea type="text" name="subject" rows="4" cols="50" ></textarea>
+            <p></p>
+            <input type="submit" value="Заказать">
+          </form>
         </div>
       </div>
-
     </div>
   </div>
 

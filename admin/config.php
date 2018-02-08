@@ -29,3 +29,36 @@ define('DB_PASSWORD', '');
 define('DB_DATABASE', 'opencart_axshare');
 define('DB_PORT', '3306');
 define('DB_PREFIX', '');
+
+// Remote Host
+
+/*// HTTP
+define('HTTP_SERVER', 'http://test2.ipr3.pp.ua/admin/');
+define('HTTP_CATALOG', 'http://test2.ipr3.pp.ua/');
+
+// HTTPS
+define('HTTPS_SERVER', 'http://test2.ipr3.pp.ua/admin/');
+define('HTTPS_CATALOG', 'http://test2.ipr3.pp.ua/');
+
+// DIR
+define('DIR_APPLICATION', '/var/www/vhosts/ipr3.pp.ua/test2.ipr3.pp.ua/admin/');
+define('DIR_SYSTEM', '/var/www/vhosts/ipr3.pp.ua/test2.ipr3.pp.ua/system/');
+define('DIR_IMAGE', '/var/www/vhosts/ipr3.pp.ua/test2.ipr3.pp.ua/image/');
+define('DIR_LANGUAGE', '/var/www/vhosts/ipr3.pp.ua/test2.ipr3.pp.ua/admin/language/');
+define('DIR_TEMPLATE', '/var/www/vhosts/ipr3.pp.ua/test2.ipr3.pp.ua/admin/view/template/');
+define('DIR_CONFIG', '/var/www/vhosts/ipr3.pp.ua/test2.ipr3.pp.ua/system/config/');
+define('DIR_CACHE', '/var/www/vhosts/ipr3.pp.ua/test2.ipr3.pp.ua/system/storage/cache/');
+define('DIR_DOWNLOAD', '/var/www/vhosts/ipr3.pp.ua/test2.ipr3.pp.ua/system/storage/download/');
+define('DIR_LOGS', '/var/www/vhosts/ipr3.pp.ua/test2.ipr3.pp.ua/system/storage/logs/');
+define('DIR_MODIFICATION', '/var/www/vhosts/ipr3.pp.ua/test2.ipr3.pp.ua/system/storage/modification/');
+define('DIR_UPLOAD', '/var/www/vhosts/ipr3.pp.ua/test2.ipr3.pp.ua/system/storage/upload/');
+define('DIR_CATALOG', '/var/www/vhosts/ipr3.pp.ua/test2.ipr3.pp.ua/catalog/');
+
+// DB
+define('DB_DRIVER', 'mysqli');
+define('DB_HOSTNAME', 'localhost');
+define('DB_USERNAME', 'admin_snickers');
+define('DB_PASSWORD', 'hZmx2#28');
+define('DB_DATABASE', 'snickers_');
+define('DB_PORT', '3306');
+define('DB_PREFIX', '');*/

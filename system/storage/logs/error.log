@@ -1,0 +1,25 @@
+2018-02-08 16:36:59 - PHP Warning:  fsockopen(): php_network_getaddresses: getaddrinfo failed: ���� ���� ����������.  in C:\OSPanel\domains\axs.dev\system\library\mail.php on line 167
+2018-02-08 16:36:59 - PHP Warning:  fsockopen(): unable to connect to  ssl://smtp.googlemail.com:25 (php_network_getaddresses: getaddrinfo failed: ���� ���� ����������. ) in C:\OSPanel\domains\axs.dev\system\library\mail.php on line 167
+2018-02-08 16:38:22 - PHP Warning:  fsockopen(): unable to connect to :25 (��������� �� �����������, �.�. ������ ������� ������ ������ �� ���������.
+) in C:\OSPanel\domains\axs.dev\system\library\mail.php on line 167
+2018-02-08 17:48:58 - PHP Notice:  Undefined index: email in C:\OSPanel\domains\axs.dev\system\storage\modification\catalog\controller\information\contact.php on line 169
+2018-02-08 17:48:58 - PHP Notice:  Undefined index: enquiry in C:\OSPanel\domains\axs.dev\system\storage\modification\catalog\controller\information\contact.php on line 173
+2018-02-08 17:50:34 - PHP Notice:  Undefined index: email in C:\OSPanel\domains\axs.dev\system\storage\modification\catalog\controller\information\contact.php on line 169
+2018-02-08 17:50:34 - PHP Notice:  Undefined index: enquiry in C:\OSPanel\domains\axs.dev\system\storage\modification\catalog\controller\information\contact.php on line 173
+2018-02-08 17:54:57 - PHP Notice:  Undefined index: email in C:\OSPanel\domains\axs.dev\system\storage\modification\catalog\controller\information\contact.php on line 169
+2018-02-08 17:54:57 - PHP Notice:  Undefined index: enquiry in C:\OSPanel\domains\axs.dev\system\storage\modification\catalog\controller\information\contact.php on line 173
+2018-02-08 17:58:23 - PHP Notice:  Undefined index: email in C:\OSPanel\domains\axs.dev\system\storage\modification\catalog\controller\information\contact.php on line 169
+2018-02-08 17:58:23 - PHP Notice:  Undefined index: enquiry in C:\OSPanel\domains\axs.dev\system\storage\modification\catalog\controller\information\contact.php on line 173
+2018-02-08 18:04:07 - PHP Notice:  Undefined index: email in C:\OSPanel\domains\axs.dev\system\storage\modification\catalog\controller\information\contact.php on line 169
+2018-02-08 18:04:07 - PHP Notice:  Undefined index: enquiry in C:\OSPanel\domains\axs.dev\system\storage\modification\catalog\controller\information\contact.php on line 173
+2018-02-08 18:07:09 - PHP Notice:  Undefined index: email in C:\OSPanel\domains\axs.dev\system\storage\modification\catalog\controller\information\contact.php on line 169
+2018-02-08 18:07:09 - PHP Notice:  Undefined index: enquiry in C:\OSPanel\domains\axs.dev\system\storage\modification\catalog\controller\information\contact.php on line 173
+2018-02-08 18:12:09 - PHP Notice:  Undefined index: email in C:\OSPanel\domains\axs.dev\system\storage\modification\catalog\controller\information\contact.php on line 169
+2018-02-08 18:12:09 - PHP Notice:  Undefined index: enquiry in C:\OSPanel\domains\axs.dev\system\storage\modification\catalog\controller\information\contact.php on line 173
+2018-02-08 18:15:35 - PHP Notice:  Undefined index: email in C:\OSPanel\domains\axs.dev\system\storage\modification\catalog\controller\information\contact.php on line 169
+2018-02-08 18:15:35 - PHP Notice:  Undefined index: enquiry in C:\OSPanel\domains\axs.dev\system\storage\modification\catalog\controller\information\contact.php on line 173
+2018-02-08 18:21:43 - PHP Notice:  Undefined index: email in C:\OSPanel\domains\axs.dev\system\storage\modification\catalog\controller\information\contact.php on line 169
+2018-02-08 18:21:43 - PHP Notice:  Undefined index: enquiry in C:\OSPanel\domains\axs.dev\system\storage\modification\catalog\controller\information\contact.php on line 173
+2018-02-08 18:38:42 - PHP Notice:  Undefined index: phone  in C:\OSPanel\domains\axs.dev\catalog\controller\information\phone.php on line 30
+2018-02-08 18:38:42 - PHP Notice:  Undefined index: subject  in C:\OSPanel\domains\axs.dev\catalog\controller\information\phone.php on line 34
+2018-02-08 18:39:30 - PHP Notice:  Undefined index: phone  in C:\OSPanel\domains\axs.dev\catalog\controller\information\phone.php on line 30
