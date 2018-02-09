@@ -1,5 +1,4 @@
-<div class="list-group">
-  <?php foreach ($categories as $category) { ?>
+<!--<?php foreach ($categories as $category) { ?>
   <?php if ($category['category_id'] == $category_id) { ?>
   <a href="<?php echo $category['href']; ?>" class="list-group-item active"><?php echo $category['name']; ?></a>
   <?php if ($category['children']) { ?>
@@ -15,4 +14,12 @@
   <a href="<?php echo $category['href']; ?>" class="list-group-item"><?php echo $category['name']; ?></a>
   <?php } ?>
   <?php } ?>
+</div>-->
+<div class="row">
+  <?php foreach ($categories as $category) { ?>
+  <div class="col-sm-6">
+    <a href="<?php echo $category['href']; ?>"><img src="<?php echo $category['thumb']; ?>" alt="<?php echo $category['name']; ?>" title="<?php echo $category['name']; ?>" class="img-responsive" /></a>
+  </div><?php } ?>
 </div>
+
+

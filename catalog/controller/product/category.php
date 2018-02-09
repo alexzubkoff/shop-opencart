@@ -158,10 +158,18 @@ class ControllerProductCategory extends Controller {
 					'filter_sub_category' => true
 				);
 
+                if ($result['image']) {
+                    $image = $this->model_tool_image->resize($result['image'], 150, 150);
+                } else {
+                    $image = $this->model_tool_image->resize('placeholder.png', 150, 150);
+                }
+
 				$data['categories'][] = array(
 					'name' => $result['name'] . ($this->config->get('config_product_count') ? ' (' . $this->model_catalog_product->getTotalProducts($filter_data) . ')' : ''),
-					'href' => $this->url->link('product/category', 'path=' . $this->request->get['path'] . '_' . $result['category_id'] . $url)
+					'href' => $this->url->link('product/category', 'path=' . $this->request->get['path'] . '_' . $result['category_id'] . $url),
+                    'thumb'=> $image
 				);
+
 			}
 
 			$data['products'] = array();
