@@ -29,7 +29,7 @@ class ControllerInformationPhone extends Controller {
             //$mail->setFrom($this->request->post['email']);
             $mail->setSender(html_entity_decode($this->request->post['name'], ENT_QUOTES, 'UTF-8'));
             $mail->setSubject(html_entity_decode(sprintf($this->request->post['phone'], $this->request->post['name']), ENT_QUOTES, 'UTF-8'));
-            $mail->setText($this->request->post['subject']);
+            $mail->setText(htmlspecialchars($this->request->post['subject']));
             $mail->send();
             $this->response->redirect($this->url->link('information/contact/success'));
         }
