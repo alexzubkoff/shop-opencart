@@ -53,14 +53,24 @@ class ControllerExtensionModuleCategory extends Controller {
 				'filter_sub_category' => true
 			);
 
+           /* if ($category['image']) {
+                $image = $this->model_tool_image->resize($category['image'], $this->config->get('config_image_product_width'), $this->config->get('config_image_product_height'));
+            }
+            else {
+                $image = $this->model_tool_image->resize('no_image.png', $this->config->get('config_image_product_width'), $this->config->get('config_image_product_height'));
+            }*/
+
+
 			$data['categories'][] = array(
 				'category_id' => $category['category_id'],
 				'name'        => $category['name'] . ($this->config->get('config_product_count') ? ' (' . $this->model_catalog_product->getTotalProducts($filter_data) . ')' : ''),
-				'children'    => $children_data,
-				'href'        => $this->url->link('product/category', 'path=' . $category['category_id'])
-			);
-		}
+                //'thumb'       => $category['image'],
+                'thumb'       => $this->model_tool_image->resize($category['image'], 235, 100),
+                'children'    => $children_data,
+				'href'        => $this->url->link('product/category', 'path=' . $category['category_id']),
 
+            );
+		}
 		return $this->load->view('extension/module/category', $data);
 	}
 }
