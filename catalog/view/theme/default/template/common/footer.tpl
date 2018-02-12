@@ -12,6 +12,15 @@
       </div>
       <?php } ?>
       <div class="col-sm-3">
+        <div id="logo">
+          <?php if ($logo) { ?>
+          <a href="<?php echo $home; ?>"><img src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" class="img-responsive" /></a>
+          <?php } else { ?>
+          <h1><a href="<?php echo $home; ?>"><?php echo $name; ?></a></h1>
+          <?php } ?>
+        </div>
+      </div>
+      <div class="col-sm-3">
         <h5><?php echo $text_service; ?></h5>
         <ul class="list-unstyled">
           <li><a href="<?php echo $contact; ?>"><?php echo $text_contact; ?></a></li>
