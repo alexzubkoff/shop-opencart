@@ -86,7 +86,7 @@ class ControllerCommonFooter extends Controller {
         } else {
             $data['logo'] = '';
         }
-        
+
 		return $this->load->view('common/footer', $data);
 	}
 }
