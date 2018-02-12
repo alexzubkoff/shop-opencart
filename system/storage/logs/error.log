@@ -421,3 +421,15 @@
 2018-02-12 13:12:57 - PHP Notice:  Undefined index: image in C:\OSPanel\domains\axs.dev\catalog\view\theme\default\template\extension\module\category.tpl on line 40
 2018-02-12 13:12:57 - PHP Notice:  Undefined index: image in C:\OSPanel\domains\axs.dev\catalog\view\theme\default\template\extension\module\category.tpl on line 40
 2018-02-12 13:12:57 - PHP Notice:  Undefined index: image in C:\OSPanel\domains\axs.dev\catalog\view\theme\default\template\extension\module\category.tpl on line 40
+2018-02-12 15:10:27 - PHP Notice:  Undefined variable: categories in C:\OSPanel\domains\axs.dev\catalog\view\theme\default\template\common\home.tpl on line 14
+2018-02-12 15:10:27 - PHP Warning:  Invalid argument supplied for foreach() in C:\OSPanel\domains\axs.dev\catalog\view\theme\default\template\common\home.tpl on line 14
+2018-02-12 15:28:31 - PHP Notice:  Undefined variable: aboutus in C:\OSPanel\domains\axs.dev\catalog\view\theme\default\template\common\home.tpl on line 13
+2018-02-12 16:21:48 - PHP Notice:  Undefined variable: aboutus in C:\OSPanel\domains\axs.dev\catalog\view\theme\default\template\common\home.tpl on line 14
+2018-02-12 16:22:21 - PHP Notice:  Undefined variable: aboutus in C:\OSPanel\domains\axs.dev\catalog\view\theme\default\template\common\home.tpl on line 14
+2018-02-12 16:22:33 - PHP Notice:  Undefined variable: aboutus in C:\OSPanel\domains\axs.dev\catalog\view\theme\default\template\common\home.tpl on line 14
+2018-02-12 16:22:47 - PHP Notice:  Undefined variable: aboutus in C:\OSPanel\domains\axs.dev\catalog\view\theme\default\template\common\home.tpl on line 14
+2018-02-12 16:22:55 - PHP Notice:  Undefined variable: aboutus in C:\OSPanel\domains\axs.dev\catalog\view\theme\default\template\common\home.tpl on line 14
+2018-02-12 16:23:26 - PHP Notice:  Undefined variable: aboutus in C:\OSPanel\domains\axs.dev\catalog\view\theme\default\template\common\home.tpl on line 14
+2018-02-12 16:23:39 - PHP Notice:  Undefined variable: aboutus in C:\OSPanel\domains\axs.dev\catalog\view\theme\default\template\common\home.tpl on line 14
+2018-02-12 16:24:46 - PHP Notice:  Undefined variable: aboutus in C:\OSPanel\domains\axs.dev\catalog\view\theme\default\template\common\home.tpl on line 14
+2018-02-12 17:28:13 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\axs.dev\catalog\view\theme\default\template\common\home.tpl on line 14
