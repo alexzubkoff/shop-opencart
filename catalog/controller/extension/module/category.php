@@ -23,6 +23,12 @@ class ControllerExtensionModuleCategory extends Controller {
 			$data['child_id'] = 0;
 		}
 
+        /*if (isset($parts[2])) {
+            $data['child_id'] = $parts[2];
+        } else {
+            $data['child_id'] = 0;
+        }*/
+
 		$this->load->model('catalog/category');
 
 		$this->load->model('catalog/product');
@@ -34,7 +40,7 @@ class ControllerExtensionModuleCategory extends Controller {
 		foreach ($categories as $category) {
 			$children_data = array();
 
-			if ($category['category_id'] == $data['category_id']) {
+			if ($category['category_id']) {
 				$children = $this->model_catalog_category->getCategories($category['category_id']);
 
 				foreach($children as $child) {
@@ -43,7 +49,8 @@ class ControllerExtensionModuleCategory extends Controller {
 					$children_data[] = array(
 						'category_id' => $child['category_id'],
 						'name' => $child['name'] . ($this->config->get('config_product_count') ? ' (' . $this->model_catalog_product->getTotalProducts($filter_data) . ')' : ''),
-						'href' => $this->url->link('product/category', 'path=' . $category['category_id'] . '_' . $child['category_id'])
+                        'child_thumb'  => $this->model_tool_image->resize($child['image'], 235, 100),
+                        'href' => $this->url->link('product/category', 'path=' . $category['category_id'] . '_' . $child['category_id'])
 					);
 				}
 			}
@@ -62,6 +69,12 @@ class ControllerExtensionModuleCategory extends Controller {
 
             );
 		}
-		return $this->load->view('extension/module/category', $data);
+
+		if ($this->request->get['route']=='common/home'){
+            return $this->load->view('extension/module/category', $data);
+        }else{
+            return $this->load->view('extension/module/productcategory', $data);
+        }
+
 	}
 }

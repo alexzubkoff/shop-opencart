@@ -15,7 +15,6 @@
   <?php } ?>
   <?php } ?>
 </div>-->
-
 <div class="row">
   <?php if (count($categories)%2==0) { ?>
   <?php foreach ($categories as $category) { ?>

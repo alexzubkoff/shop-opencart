@@ -433,3 +433,9 @@
 2018-02-12 16:23:39 - PHP Notice:  Undefined variable: aboutus in C:\OSPanel\domains\axs.dev\catalog\view\theme\default\template\common\home.tpl on line 14
 2018-02-12 16:24:46 - PHP Notice:  Undefined variable: aboutus in C:\OSPanel\domains\axs.dev\catalog\view\theme\default\template\common\home.tpl on line 14
 2018-02-12 17:28:13 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\axs.dev\catalog\view\theme\default\template\common\home.tpl on line 14
+2018-02-13 14:22:28 - PHP Notice:  Undefined index: children in C:\OSPanel\domains\axs.dev\catalog\controller\extension\module\category.php on line 66
+2018-02-13 14:27:42 - PHP Notice:  Undefined index: children in C:\OSPanel\domains\axs.dev\catalog\controller\extension\module\category.php on line 65
+2018-02-13 14:29:43 - PHP Notice:  Undefined index: children in C:\OSPanel\domains\axs.dev\catalog\controller\extension\module\category.php on line 65
+2018-02-13 14:36:00 - PHP Notice:  Undefined index: child_thumb in C:\OSPanel\domains\axs.dev\catalog\controller\extension\module\category.php on line 66
+2018-02-13 14:38:27 - PHP Notice:  Undefined index: child_thumb in C:\OSPanel\domains\axs.dev\catalog\controller\extension\module\category.php on line 66
+2018-02-13 14:43:26 - PHP Notice:  Undefined index: child_thumb in C:\OSPanel\domains\axs.dev\catalog\controller\extension\module\category.php on line 66
