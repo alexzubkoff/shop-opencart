@@ -46,11 +46,37 @@ class ControllerExtensionModuleCategory extends Controller {
 				foreach($children as $child) {
 					$filter_data = array('filter_category_id' => $child['category_id'], 'filter_sub_category' => true);
 
+                    $this->load->model('tool/image');
+                    $subchildren_data = array();
+                    $subchildren = $this->model_catalog_category->getCategories($child['category_id']);
+
+                    foreach ($subchildren as $subchild) {
+                        $filter_data = array(
+                            'filter_category_id' => $subchild['category_id'],
+                            'filter_sub_category' => true
+                        );
+
+                        if($child['image']) {
+                            $image = $this->model_tool_image->resize($child['image'],50,50);
+                        } else {
+                            $image = $this->model_tool_image->resize('placeholder.png',50,50);
+                        }
+
+                        $subchildren_data[] = array(
+                            'name' => $subchild['name'] . ($this->config->get('config_product_count') ? ' (' . $this->model_catalog_product->getTotalProducts($filter_data) . ')' : ''),
+                            'href' => $this->url->link('product/category', 'path=' . $child['category_id'] . '_' . $subchild['category_id']),
+                            'image' => $image
+                        );
+
+
+                    }
+
 					$children_data[] = array(
 						'category_id' => $child['category_id'],
 						'name' => $child['name'] . ($this->config->get('config_product_count') ? ' (' . $this->model_catalog_product->getTotalProducts($filter_data) . ')' : ''),
                         'child_thumb'  => $this->model_tool_image->resize($child['image'], 235, 100),
-                        'href' => $this->url->link('product/category', 'path=' . $category['category_id'] . '_' . $child['category_id'])
+                        'href' => $this->url->link('product/category', 'path=' . $category['category_id'] . '_' . $child['category_id']),
+                        'subchildren' => $subchildren_data
 					);
 				}
 			}

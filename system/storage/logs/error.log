@@ -439,3 +439,563 @@
 2018-02-13 14:36:00 - PHP Notice:  Undefined index: child_thumb in C:\OSPanel\domains\axs.dev\catalog\controller\extension\module\category.php on line 66
 2018-02-13 14:38:27 - PHP Notice:  Undefined index: child_thumb in C:\OSPanel\domains\axs.dev\catalog\controller\extension\module\category.php on line 66
 2018-02-13 14:43:26 - PHP Notice:  Undefined index: child_thumb in C:\OSPanel\domains\axs.dev\catalog\controller\extension\module\category.php on line 66
+2018-02-13 18:29:53 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:29:53 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:29:53 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:29:53 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:29:53 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:29:53 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:29:53 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:29:53 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:29:53 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:29:53 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:29:53 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:29:53 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:29:53 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:29:53 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:29:53 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:29:53 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:29:53 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:29:53 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:29:53 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:29:53 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:29:53 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:29:53 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:29:53 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:29:53 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:29:53 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:29:53 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:29:53 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:29:53 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:29:53 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:29:53 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:29:53 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:29:53 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:29:53 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:29:53 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:29:53 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:29:53 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:29:53 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:29:53 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:29:53 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:29:53 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:29:53 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:29:53 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:29:53 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:29:53 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:29:53 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:29:53 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:29:53 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:29:53 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:29:53 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:29:53 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:29:53 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:29:53 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:29:53 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:29:53 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:29:53 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:29:53 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:29:53 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:29:53 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:29:53 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:29:53 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:29:53 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:29:53 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:29:53 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:29:53 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:29:53 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:29:53 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:29:53 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:29:53 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:29:53 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:29:53 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:29:59 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:29:59 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:29:59 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:29:59 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:29:59 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:29:59 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:29:59 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:29:59 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:29:59 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:29:59 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:29:59 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:29:59 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:29:59 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:29:59 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:29:59 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:29:59 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:29:59 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:29:59 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:29:59 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:29:59 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:29:59 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:29:59 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:29:59 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:29:59 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:29:59 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:29:59 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:29:59 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:29:59 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:29:59 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:29:59 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:29:59 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:29:59 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:29:59 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:29:59 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:29:59 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:29:59 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:29:59 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:29:59 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:29:59 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:29:59 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:29:59 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:29:59 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:29:59 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:29:59 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:29:59 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:29:59 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:29:59 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:29:59 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:29:59 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:29:59 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:29:59 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:29:59 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:29:59 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:29:59 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:29:59 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:29:59 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:29:59 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:29:59 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:29:59 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:29:59 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:29:59 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:29:59 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:29:59 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:29:59 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:29:59 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:29:59 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:29:59 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:29:59 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:29:59 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:29:59 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:42 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:42 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:42 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:42 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:42 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:42 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:42 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:42 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:42 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:42 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:42 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:42 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:42 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:42 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:42 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:42 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:42 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:42 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:42 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:42 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:42 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:42 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:42 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:42 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:42 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:42 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:42 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:42 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:42 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:42 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:42 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:42 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:42 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:42 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:42 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:42 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:42 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:42 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:42 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:42 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:42 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:42 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:42 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:42 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:42 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:42 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:42 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:42 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:42 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:42 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:42 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:42 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:42 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:42 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:42 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:42 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:42 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:42 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:42 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:42 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:42 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:42 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:42 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:42 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:42 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:42 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:42 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:42 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:42 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:42 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:50 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:50 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:50 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:50 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:50 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:50 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:50 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:50 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:50 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:50 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:50 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:50 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:50 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:50 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:50 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:50 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:50 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:50 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:50 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:50 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:50 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:50 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:50 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:50 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:50 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:50 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:50 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:50 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:50 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:50 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:50 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:50 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:50 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:50 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:50 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:50 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:50 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:50 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:50 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:50 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:50 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:50 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:50 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:50 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:50 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:50 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:50 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:50 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:50 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:50 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:50 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:50 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:50 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:50 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:50 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:50 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:50 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:50 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:50 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:50 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:50 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:50 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:50 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:50 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:50 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:50 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:50 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:50 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:50 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:50 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:55 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:55 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:55 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:55 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:55 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:55 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:55 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:55 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:55 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:55 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:55 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:55 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:55 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:55 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:55 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:55 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:55 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:55 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:55 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:55 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:55 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:55 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:55 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:55 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:55 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:55 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:55 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:55 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:55 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:55 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:55 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:55 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:55 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:55 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:55 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:55 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:55 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:55 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:55 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:55 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:55 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:55 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:55 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:55 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:55 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:55 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:55 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:55 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:55 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:55 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:55 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:55 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:55 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:55 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:55 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:55 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:55 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:55 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:55 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:55 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:55 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:55 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:55 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:31:55 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:31:55 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:31:55 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:31:55 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:31:55 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:31:55 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:31:55 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:09 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:09 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:09 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:09 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:09 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:09 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:09 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:09 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:09 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:09 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:09 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:09 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:09 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:09 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:09 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:09 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:09 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:09 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:09 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:09 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:09 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:09 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:09 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:09 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:09 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:09 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:09 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:09 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:09 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:09 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:09 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:09 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:09 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:09 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:09 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:09 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:09 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:09 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:09 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:09 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:09 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:09 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:09 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:09 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:09 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:09 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:09 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:09 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:09 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:09 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:09 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:09 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:09 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:09 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:09 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:09 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:09 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:09 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:09 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:09 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:09 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:09 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:09 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:09 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:09 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:09 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:09 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:09 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:09 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:09 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:21 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:21 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:21 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:21 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:21 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:21 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:21 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:21 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:21 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:21 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:21 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:21 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:21 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:21 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:21 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:21 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:21 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:21 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:21 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:21 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:21 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:21 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:21 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:21 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:21 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:21 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:21 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:21 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:21 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:21 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:21 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:21 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:21 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:21 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:21 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:21 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:21 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:21 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:21 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:21 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:21 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:21 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:21 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:21 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:21 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:21 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:21 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:21 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:21 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:21 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:21 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:21 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:21 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:21 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:21 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:21 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:21 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:21 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:21 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:21 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:21 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:21 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:21 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:21 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:21 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:21 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:21 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:21 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:21 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:21 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:40 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:40 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:40 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:40 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:40 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:40 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:40 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:40 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:40 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:40 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:40 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:40 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:40 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:40 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:40 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:40 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:40 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:40 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:40 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:40 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:40 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:40 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:40 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:40 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:40 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:40 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:40 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:40 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:40 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:40 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:40 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:40 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:40 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:40 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:40 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:40 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:40 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:40 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:40 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:40 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:40 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:40 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:40 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:40 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:40 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:40 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:40 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:40 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:40 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:40 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:40 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:40 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:40 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:40 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:40 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:40 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:40 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:40 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:40 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:40 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:40 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:40 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:40 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
+2018-02-13 18:32:40 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in C:\OSPanel\domains\axs.dev\system\library\image.php on line 105
+2018-02-13 18:32:40 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 108
+2018-02-13 18:32:40 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 109
+2018-02-13 18:32:40 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 110
+2018-02-13 18:32:40 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 111
+2018-02-13 18:32:40 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 116
+2018-02-13 18:32:40 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in C:\OSPanel\domains\axs.dev\system\library\image.php on line 118
