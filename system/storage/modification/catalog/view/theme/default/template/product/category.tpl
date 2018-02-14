@@ -29,25 +29,39 @@
       <?php if ($categories) { ?>
       <h3><?php echo $text_refine; ?></h3>
       <?php if (count($categories) <= 5) { ?>
+
       <div class="row">
-        <div class="col-sm-3">
+        <?php foreach ($categories as $category) { ?>
+        <div class="col-sm-6">
+          <a class="img-thumbnail" style="text-decoration: none" href="<?php echo $category['href']; ?>"><img style="height: 200px; width: 350px;" src="<?php echo $category['thumb']; ?>" alt="<?php echo $category['name']; ?>" title="<?php echo $category['name']; ?>" class="img-responsive" /></a>
+        </div>
+        <?php } ?>
+        <!--<div class="col-sm-3">
           <ul>
             <?php foreach ($categories as $category) { ?>
             <li><a href="<?php echo $category['href']; ?>"><?php echo $category['name']; ?></a></li>
             <?php } ?>
           </ul>
-        </div>
+        </div>-->
       </div>
       <?php } else { ?>
       <div class="row">
         <?php foreach (array_chunk($categories, ceil(count($categories) / 4)) as $categories) { ?>
-        <div class="col-sm-3">
+
+
+        <div class="row">
+          <?php foreach ($categories as $category) { ?>
+          <div class="col-sm-6">
+            <a class="img-thumbnail" style="text-decoration: none" href="<?php echo $category['href']; ?>"><img style="height: 200px; width: 350px;" src="<?php echo $category['thumb']; ?>" alt="<?php echo $category['name']; ?>" title="<?php echo $category['name']; ?>" class="img-responsive" /></a>
+          </div>
+          <?php } ?>
+          <!--<div class="col-sm-3">
           <ul>
             <?php foreach ($categories as $category) { ?>
             <li><a href="<?php echo $category['href']; ?>"><?php echo $category['name']; ?></a></li>
             <?php } ?>
           </ul>
-        </div>
+        </div>-->
         <?php } ?>
       </div>
       <?php } ?>
