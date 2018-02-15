@@ -95,11 +95,11 @@ class ControllerExtensionModuleCategory extends Controller {
 
             );
 		}
-		if ($this->request->get['route']=='common/home'){
-            return $this->load->view('extension/module/category', $data);
-        }else{
+		if (!empty($this->request->get['route']) && $this->request->get['route'] =='product/category'){
             return $this->load->view('extension/module/productcategory', $data);
         }
+
+            return $this->load->view('extension/module/category', $data);
 
 	}
 }

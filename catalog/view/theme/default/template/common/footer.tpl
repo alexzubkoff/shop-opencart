@@ -1,6 +1,21 @@
 <footer>
   <div class="container">
     <div class="row">
+      <div class="col-sm-3">
+        <div id="logo">
+          <?php if ($logo) { ?>
+          <a href="<?php echo $home; ?>"><img src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" class="img-responsive" /></a>
+          <?php } else { ?>
+          <h1><a href="<?php echo $home; ?>"><?php echo $name; ?></a></h1>
+          <?php } ?>
+        </div>
+      </div>
+      <div class="col-sm-3">
+        <h5>Категории</h5>
+              <?php foreach ($categories as $category) { ?>
+              <a href="<?php echo $category['href']; ?>"><?php echo $category['name']; ?></a><br>
+              <?php } ?>
+      </div>
       <?php if ($informations) { ?>
       <div class="col-sm-3">
         <h5><?php echo $text_information; ?></h5>
@@ -12,23 +27,14 @@
       </div>
       <?php } ?>
       <div class="col-sm-3">
-        <div id="logo">
-          <?php if ($logo) { ?>
-          <a href="<?php echo $home; ?>"><img src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" class="img-responsive" /></a>
-          <?php } else { ?>
-          <h1><a href="<?php echo $home; ?>"><?php echo $name; ?></a></h1>
-          <?php } ?>
-        </div>
-      </div>
-      <div class="col-sm-3">
-        <h5><?php echo $text_service; ?></h5>
+        <h5><?php echo 'Контактная информация'; ?></h5>
         <ul class="list-unstyled">
           <li><a href="<?php echo $contact; ?>"><?php echo $text_contact; ?></a></li>
           <li><a href="<?php echo $return; ?>"><?php echo $text_return; ?></a></li>
           <li><a href="<?php echo $sitemap; ?>"><?php echo $text_sitemap; ?></a></li>
         </ul>
       </div>
-      <div class="col-sm-3">
+      <!--<div class="col-sm-3">
         <h5><?php echo $text_extra; ?></h5>
         <ul class="list-unstyled">
           <li><a href="<?php echo $manufacturer; ?>"><?php echo $text_manufacturer; ?></a></li>
@@ -45,7 +51,7 @@
           <li><a href="<?php echo $wishlist; ?>"><?php echo $text_wishlist; ?></a></li>
           <li><a href="<?php echo $newsletter; ?>"><?php echo $text_newsletter; ?></a></li>
         </ul>
-      </div>
+      </div>-->
     </div>
     <hr>
     <p><?php echo $powered; ?></p>
