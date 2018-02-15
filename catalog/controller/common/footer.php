@@ -150,30 +150,6 @@ class ControllerCommonFooter extends Controller {
             $data['class'] = 'common-home';
         }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 		return $this->load->view('common/footer', $data);
 	}
 }

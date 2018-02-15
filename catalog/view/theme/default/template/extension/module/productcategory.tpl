@@ -21,6 +21,6 @@
 <?php } ?>
 <?php } ?>
 <?php } else { ?>
-<!--<a href="<?php echo $category['href']; ?>" class="list-group-item"><?php echo $category['name']; ?></a>-->
+<a href="<?php echo $category['href']; ?>" class="list-group-item"><?php echo $category['name']; ?></a>
 <?php } ?>
 <?php } ?>

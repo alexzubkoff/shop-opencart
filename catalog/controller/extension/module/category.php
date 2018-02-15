@@ -23,10 +23,10 @@ class ControllerExtensionModuleCategory extends Controller {
 			$data['child_id'] = 0;
 		}
 
-        /*if (isset($parts[2])) {
-            $data['child_id'] = $parts[2];
+       /* if (isset($parts[2])) {
+            $data['subchild_id'] = $parts[2];
         } else {
-            $data['child_id'] = 0;
+            $data['subchild_id'] = 0;
         }*/
 
 		$this->load->model('catalog/category');
@@ -95,6 +95,7 @@ class ControllerExtensionModuleCategory extends Controller {
 
             );
 		}
+
 		if (!empty($this->request->get['route']) && $this->request->get['route'] =='product/category'){
             return $this->load->view('extension/module/productcategory', $data);
         }
