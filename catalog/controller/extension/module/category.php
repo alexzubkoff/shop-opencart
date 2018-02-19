@@ -23,11 +23,11 @@ class ControllerExtensionModuleCategory extends Controller {
 			$data['child_id'] = 0;
 		}
 
-       /* if (isset($parts[2])) {
+        if (isset($parts[2])) {
             $data['subchild_id'] = $parts[2];
         } else {
             $data['subchild_id'] = 0;
-        }*/
+        }
 
 		$this->load->model('catalog/category');
 
@@ -64,7 +64,7 @@ class ControllerExtensionModuleCategory extends Controller {
 
                         $subchildren_data[] = array(
                             'name' => $subchild['name'] . ($this->config->get('config_product_count') ? ' (' . $this->model_catalog_product->getTotalProducts($filter_data) . ')' : ''),
-                            'href' => $this->url->link('product/category', 'path=' . $child['category_id'] . '_' . $subchild['category_id']),
+                            'href' => $this->url->link('product/category', 'path='.$category['category_id'].'_'. $child['category_id'] . '_' . $subchild['category_id']),
                             'image' => $image
                         );
 
@@ -72,9 +72,9 @@ class ControllerExtensionModuleCategory extends Controller {
                     }
 
 					$children_data[] = array(
-						'category_id' => $child['category_id'],
+                        'category_id' => $child['category_id'],
 						'name' => $child['name'] . ($this->config->get('config_product_count') ? ' (' . $this->model_catalog_product->getTotalProducts($filter_data) . ')' : ''),
-                        'child_thumb'  => $this->model_tool_image->resize($child['image'], 235, 100),
+                        'child_thumb'  => $this->model_tool_image->resize($child['image'], 500, 330),
                         'href' => $this->url->link('product/category', 'path=' . $category['category_id'] . '_' . $child['category_id']),
                         'subchildren' => $subchildren_data
 					);

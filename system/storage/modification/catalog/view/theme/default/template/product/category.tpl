@@ -16,83 +16,22 @@
     <div id="content" class="<?php echo $class; ?>"><?php echo $content_top; ?>
       <h2><?php echo $heading_title; ?></h2>
       <?php if ($thumb || $description) { ?>
-      <div class="row">
-        <?php if ($thumb) { ?>
-        <div class="col-sm-2"><img src="<?php echo $thumb; ?>" alt="<?php echo $heading_title; ?>" title="<?php echo $heading_title; ?>" class="img-thumbnail" /></div>
-        <?php } ?>
-        <?php if ($description) { ?>
-        <div class="col-sm-10"><?php echo $description; ?></div>
-        <?php } ?>
-      </div>
       <hr>
       <?php } ?>
       <?php if ($categories) { ?>
-      <!--<h3><?php echo $text_refine; ?></h3>-->
       <?php if (count($categories) <= 5) { ?>
       <div class="row">
-
         <?php foreach ($categories as $category) { ?>
-        <?php if ($category['category_id'] == $category_id) { ?>
-        <a href="<?php echo $category['href']; ?>" class="list-group-item active"><?php echo $category['name']; ?></a>
-        <?php if ($category['children']) { ?>
-        <?php foreach ($category['children'] as $child) { ?>
-        <?php if ($child['category_id'] == $child_id) { ?>
-        <a href="<?php echo $child['href']; ?>" class="list-group-item active">&nbsp;&nbsp;&nbsp;- <?php echo $child['name']; ?></a>
-        <?php if ($child['subchildren']) { ?>
-        <?php foreach ($child['subchildren'] as $subchild) { ?>
-        <li style="padding-left: 45px;"><a href="<?php echo $subchild['href']; ?>"><img src="<?php echo $subchild['image']; ?>"><?php echo $subchild['name']; ?></a></li>
+        <div class="col-sm-6">
+          <a class="img-thumbnail" style="text-decoration: none" href="<?php echo $category['href']; ?>"><img style="height: 200px; width: 350px;" src="<?php echo $category['thumb']; ?>" alt="<?php echo $category['name']; ?>" title="<?php echo $category['name']; ?>" class="img-responsive" /><?php echo $category['name']; ?></a>
+        </div>
         <?php } ?>
-        <?php } ?>
-        <?php } else { ?>
-        <a href="<?php echo $child['href']; ?>" class="list-group-item">&nbsp;&nbsp;&nbsp;- <?php echo $child['name']; ?></a>
-        <?php if ($child['subchildren']) { ?>
-        <?php foreach ($child['subchildren'] as $subchild) { ?>
-        <li style="padding-left: 45px;"><a href="<?php echo $subchild['href']; ?>"><img src="<?php echo $subchild['image']; ?>"><?php echo $subchild['name']; ?></a></li>
-        <?php } ?>
-        <?php } ?>
-        <?php } ?>
-        <?php } ?>
-        <?php } ?>
-        <?php } else { ?>
-        <a href="<?php echo $category['href']; ?>" class="list-group-item"><?php echo $category['name']; ?></a>
-        <?php } ?>
-        <?php } ?>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        <!--<div class="col-sm-3">
-          <ul>
-            <?php foreach ($categories as $category) { ?>
-            <li><a href="<?php echo $category['href']; ?>"><?php echo $category['name']; ?></a></li>
-            <?php } ?>
-          </ul>
-        </div>-->
       </div>
       <?php } else { ?>
       <div class="row">
-        <?php foreach (array_chunk($categories, ceil(count($categories) / 4)) as $categories) { ?>
-        <div class="col-sm-3">
-          <ul>
-            <?php foreach ($categories as $category) { ?>
-            <li><a href="<?php echo $category['href']; ?>"><?php echo $category['name']; ?></a></li>
-            <?php } ?>
-          </ul>
+        <?php foreach ($categories as $category) { ?>
+        <div class="col-sm-6">
+          <a class="img-thumbnail" style="text-decoration: none" href="<?php echo $category['href']; ?>"><img style="height: 200px; width: 350px;" src="<?php echo $category['thumb']; ?>" alt="<?php echo $category['name']; ?>" title="<?php echo $category['name']; ?>" class="img-responsive" /><?php echo $category['name']; ?></a>
         </div>
         <?php } ?>
       </div>
